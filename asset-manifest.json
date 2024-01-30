@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jagadeesh/static/css/main.f855e6bc.css",
+    "main.js": "/jagadeesh/static/js/main.451a0da0.js",
+    "static/js/787.43da5d57.chunk.js": "/jagadeesh/static/js/787.43da5d57.chunk.js",
+    "index.html": "/jagadeesh/index.html",
+    "main.f855e6bc.css.map": "/jagadeesh/static/css/main.f855e6bc.css.map",
+    "main.451a0da0.js.map": "/jagadeesh/static/js/main.451a0da0.js.map",
+    "787.43da5d57.chunk.js.map": "/jagadeesh/static/js/787.43da5d57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.451a0da0.js"
+  ]
+}
